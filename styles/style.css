@@ -137,6 +137,11 @@ header {
     margin-bottom: 2.5rem;
   }
 
+  .module a{
+    text-decoration: none;
+    color:#f1f1f1;
+  }
+
   #course-content {
     text-align: center;
     width: 1920px;
