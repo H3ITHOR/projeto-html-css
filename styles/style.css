@@ -172,10 +172,10 @@ header {
     color: #90ee90;
   }
   
-  #course-content .modules-list .module a {
-    text-decoration: none;
-    color: white
-  }
+    #course-content .modules-list .module a {
+      text-decoration: none;
+      color: white
+    }
  
   @media only screen and (max-width: 768px) {
     h2 {
