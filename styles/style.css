@@ -167,11 +167,6 @@ header {
     border-radius: 50px; 
     box-shadow: inset -5px 6px 8px rgba(0, 0, 0, .7);
   }
-
-  #course-content .modules-list .module a {
-    text-decoration: none;
-    color: white
-  }
   
   #course-content .modules-list .module span {
     color: #90ee90;
