@@ -26,8 +26,7 @@ Este é um projeto de uma página web sobre mim, desenvolvido para o **Desafio d
 ├── index.html        # Página principal com o conteúdo da página pessoal
 ├── styles.css        # Arquivo CSS para estilização da página
 └── assets/           # Pasta para imagens e outros arquivos de mídia
+```
 
-![image](https://github.com/user-attachments/assets/ff43bbff-83ad-4e11-9b9e-98dc7bb97f03)
-
-![image](https://github.com/user-attachments/assets/50f299dc-c12c-45a0-a5cf-39ecbf74326b)
-
+![Screenshot 2024-10-28 173202](https://github.com/user-attachments/assets/7728a0a6-5d73-4409-9526-7c68d6be878b)
+![Screenshot 2024-10-28 173210](https://github.com/user-attachments/assets/fd772610-fc64-4ded-9ac2-7779ebd8dcfc)
